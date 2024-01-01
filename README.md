@@ -1,6 +1,6 @@
 # Fake Yiban: 不一般的易班
 
-# [Start](https://supertsy5.github.io/yiban/dist/)
+# [Start](https://creatablelygithub.io/yiban/dist/)
 
 WARNING: This program is only used for demonstration and should not be abused. Use it at your own risk.
 
